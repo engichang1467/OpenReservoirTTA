@@ -1,0 +1,8 @@
+batch_size: 64
+tau: 25.0
+max_reservoir_size: 500
+tta_steps: 1
+tta_lr: 0.001
+entropy_threshold: 1.5
+device: cuda
+num_classes: 100
