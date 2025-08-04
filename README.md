@@ -1,6 +1,9 @@
 # OpenReservoirTTA
 
+![Figure 2: Overview of ReservoirTTA](img/image.png)
+
 **OpenReservoirTTA** is a simplified, extensible reimplementation of [ReservoirTTA (arXiv 2505.14511)](https://arxiv.org/abs/2505.14511), a plug-in test-time adaptation framework for non-stationary, evolving, and recurring domains. This implementation supports per-corruption evaluation, per-domain logging, and t-SNE visualization.
+
 
 ---
 
@@ -118,6 +121,7 @@ MIT License. See `LICENSE` file for details.
 
 ## 🙋‍♀️ Acknowledgments
 
-* Inspired by the official ReservoirTTA paper (EPFL, UBC, Vector Institute)
+* Inspired by the official **ReservoirTTA** paper (EPFL, UBC, Vector Institute)
+* Special thanks to [**Evan Shelhamer**](https://imaginarynumber.net/research/), whose work on test-time adaptation continues to inspire this implementation
 * Built using PyTorch and torchvision
 
